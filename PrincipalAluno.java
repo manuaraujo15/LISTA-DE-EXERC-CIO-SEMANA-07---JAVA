@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Principal {
+public class PrincipalAluno {
     public static void main(String[] args) {
         ArrayList<AlunoMonitor> monitores = new ArrayList<>();
 
